@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['@help','250 server','by sad men'];
+    var setGame = ['SaDHero','The GoD Is Here','صحابى الى خانونى','بحيك موت'];
     var i = -1;
     var j = 0;
     setInterval(function (){
